@@ -2,3 +2,5 @@ venv/
 
 .coverage
 __pycache__/
+
+py_killer.sh
