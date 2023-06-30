@@ -1,0 +1,24 @@
+{
+  "name": "py_killer",
+  "version": "1.0.0",
+  "description": "Python script to list and kill processes",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "python3 -m unittest discover -s './' -p 'test_*.py' -v",
+    "test_coverage": "coverage run --omit 'tests/*' -m unittest discover -s './' -p 'test_*.py' -v && coverage report -m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerrico/py_killer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerrico/py_killer/issues"
+  },
+  "homepage": "https://github.com/gerrico/py_killer#readme"
+}
