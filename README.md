@@ -1,6 +1,6 @@
 # PyKiller
 
-[![Python application](https://github.com/ciuliene/py_killer/actions/workflows/test.yml/badge.svg)](https://github.com/ciuliene/py_killer/actions/workflows/test.yml)
+[![Python application](https://github.com/ciuliene/py_killer/actions/workflows/merge.yml/badge.svg?branch=main)](https://github.com/ciuliene/py_killer/actions/workflows/merge.yml)
 
 Python script to list and kill processes
 
